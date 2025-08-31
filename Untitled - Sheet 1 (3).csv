@@ -1,0 +1,7 @@
+
+domain,size,device_type,os,city,hour,clicked
+news.com,300x250,mobile,Android,Delhi,14,1
+sports.com,728x90,desktop,Windows,Mumbai,18,0
+shopping.com,300x250,mobile,iOS,Bangalore,9,0
+news.com,300x250,desktop,Windows,Delhi,20,1
+social.com,728x90,mobile,Android,Chennai,11,0
